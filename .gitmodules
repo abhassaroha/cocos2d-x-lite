@@ -4,3 +4,6 @@
 [submodule "tools/bindings-generator"]
 	path = tools/bindings-generator
 	url = https://github.com/cocos-creator/bindings-generator.git
+[submodule "extensions/custom"]
+	path = extensions/custom
+	url = git@bitbucket.org:campersofamadablam/unogame.git
